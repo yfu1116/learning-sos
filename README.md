@@ -4,3 +4,6 @@
 
 ### Jupyter notebook快捷键
 ### https://blog.csdn.net/lawme/article/details/51034543
+
+### sos magics
+### https://vatlab.github.io/sos-docs/doc/user_guide/sos_magics.html
