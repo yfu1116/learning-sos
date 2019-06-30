@@ -7,3 +7,6 @@
 
 ### sos magics
 ### https://vatlab.github.io/sos-docs/doc/user_guide/sos_magics.html
+
+### SoS-command-line
+### https://vatlab.github.io/sos-docs/doc/documentation/User_Interface.html
