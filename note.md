@@ -10,4 +10,4 @@ SoS variables _input and _output are of type sos_targets and accept additional f
 :b is the basename of the path. e.g. a.txt from /path/to/a.txt
 :d is the directory name of the path. e.g. /path/to from /path/to/a.txt
 ```
-![avatar][‪C:\Users\dell\Desktop\草图.png]
+![avatar](‪C:\Users\dell\Desktop\草图.png)
