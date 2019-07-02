@@ -16,3 +16,6 @@
 
 ### markdown语法
 ### https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html
+
+### python 指导手册
+### https://docs.python.org/3/reference/lexical_analysis.html#f-strings
