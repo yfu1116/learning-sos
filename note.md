@@ -73,3 +73,7 @@ NameError: name 'csv_file' is not defined
 ```
 **9. %run --parameter</br>**
 >https://vatlab.github.io/sos-docs/doc/user_guide/parameters.html</br>
+
+**10. %expand**</br>
+>![3](https://user-images.githubusercontent.com/44600656/60663736-a3adc900-9e92-11e9-85b5-39ad70368f39.png)</br>
+
