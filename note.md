@@ -44,8 +44,8 @@ R: expand=True
 [hello-world]
 print('hello world')
 ```
-**7. %sosrun</br>
->The %sosrun magic execute workflows defined in the embedded SoS script of a notebook.
->%sosrun hello-world
->hello world
->hello world again
+**7. %sosrun**</br>
+>The %sosrun magic execute workflows defined in the embedded SoS script of a notebook.</br>
+>%sosrun hello-world</br>
+>hello world</br>
+>hello world again</br>
