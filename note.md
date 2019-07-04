@@ -45,8 +45,8 @@ R: expand=True
 print('hello world')
 ```
 **7. %sosrun**</br>
->The %sosrun magic execute workflows defined in the embedded SoS script of a notebook.</br>
+>**The %sosrun magic execute workflows defined in the embedded SoS script of a notebook.**</br>
 >%sosrun hello-world</br>
 >hello world</br>
 >hello world again</br>
->%run guideline https://vatlab.github.io/sos-docs/doc/user_guide/sos_in_notebook.html</br>
+>**%run guideline https://vatlab.github.io/sos-docs/doc/user_guide/sos_in_notebook.html**</br>
