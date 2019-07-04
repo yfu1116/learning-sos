@@ -12,5 +12,7 @@ SoS variables _input and _output are of type sos_targets and accept additional f
 ```
 ![image](https://user-images.githubusercontent.com/44600656/60513250-52260280-9d09-11e9-9759-e774b0153bd6.png)
 
-4. about %run and 'variable' not defined\n
-SoS starts an external sos process, execute the workflow and displays the output in the notebook. The workflow is executed independently and does not share any variables in the SoS kernel. For example, if you define a variable in the SoS kernel
+4. about %run and 'variable' not defined
+```
+SoS starts an external sos process, execute the workflow and displays the output in the notebook. The workflow is executed independently and does not share any variables in the SoS kernel. For example, if you define a variable in the SoS kernel.
+```
