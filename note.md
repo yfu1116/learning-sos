@@ -71,3 +71,5 @@ R: expand=True
     dev.off()
 NameError: name 'csv_file' is not defined
 ```
+**9. %run --parameter</br>**
+>https://vatlab.github.io/sos-docs/doc/user_guide/parameters.html</br>
