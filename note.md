@@ -50,3 +50,24 @@ print('hello world')
 >hello world</br>
 >hello world again</br>
 >**%run guideline https://vatlab.github.io/sos-docs/doc/user_guide/sos_in_notebook.html**</br>
+
+**8. local and global variables**
+>variables defined in individual steps are not available to other steps. </br>
+>For example, the following workflow would fail.</br>
+```
+%run
+
+[plot_10]
+excel_file = 'data/DEG.xlsx'
+csv_file = 'DEG.csv'
+
+[plot_20]
+figure_file = 'output.pdf'
+
+R: expand=True
+    data <- read.csv('{csv_file}')
+    pdf('{figure_file}')
+    plot(data$log2FoldChange, data$stat)
+    dev.off()
+NameError: name 'csv_file' is not defined
+```
