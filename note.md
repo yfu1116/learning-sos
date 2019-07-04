@@ -49,3 +49,4 @@ print('hello world')
 >%sosrun hello-world</br>
 >hello world</br>
 >hello world again</br>
+>%run guideline https://vatlab.github.io/sos-docs/doc/user_guide/sos_in_notebook.html</br>
