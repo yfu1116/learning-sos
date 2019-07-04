@@ -38,7 +38,7 @@ R: expand=True
 **5. & and executed in background**
 ![2](https://user-images.githubusercontent.com/44600656/60661122-d7d1bb80-9e8b-11e9-9e67-a27fbd282ebb.png)
 
-**6. [workflow] Workflow cells cannot be executed directly**
+**6. [workflow] Workflow cells cannot be executed directly**</br>
 if you execute the cell directly via Ctrl-Enter or Shift-Enter, it does not produce any output.</br>
 ```
 [hello-world]
