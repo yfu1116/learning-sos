@@ -17,4 +17,22 @@ SoS variables _input and _output are of type sos_targets and accept additional f
 - SoS starts an external sos process, execute the workflow and displays the output in the notebook. 
 - The workflow is executed independently and does not share any variables in the SoS kernel.
 - For example, if you define a variable in the SoS kernel.
+```
+%run
 
+[global]
+excel_file = 'data/DEG.xlsx'
+csv_file = 'DEG.csv'
+figure_file = 'output.pdf'
+
+[plot_10]
+run: expand=True
+    xlsx2csv {excel_file} > {csv_file}
+
+[plot_20]
+R: expand=True
+    data <- read.csv('{csv_file}')
+    pdf('{figure_file}')
+    plot(data$log2FoldChange, data$stat)
+    dev.off()
+```
