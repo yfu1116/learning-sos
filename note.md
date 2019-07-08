@@ -77,3 +77,19 @@ NameError: name 'csv_file' is not defined
 **10. %expand**</br>
 >![3](https://user-images.githubusercontent.com/44600656/60663736-a3adc900-9e92-11e9-85b5-39ad70368f39.png)</br>
 
+**11. sep_output**</br>
+```
+%run -v0
+[A]
+output: 'a.txt'
+_output.touch()
+
+[B]
+output: 'b.txt'
+_output.touch()
+
+[default]
+input: output_from(['A', 'B'])
+print(f'Input from step A is {_input["A"]}')
+print(f'Input from step B is {_input["B"]}')
+```
