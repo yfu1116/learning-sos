@@ -16,7 +16,9 @@
 
 ### markdown语法
 ### https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html
-### Markdown中输入数学公式及LaTex常用数学符号整理　http://liyangbit.com/math/jupyter-latex/
+
+### Markdown中输入数学公式及LaTex常用数学符号整理
+### http://liyangbit.com/math/jupyter-latex/
 
 ### python 指导手册
 ### https://docs.python.org/3/reference/lexical_analysis.html#f-strings
