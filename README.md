@@ -22,3 +22,6 @@
 
 ### python 指导手册
 ### https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+
+### R-set.seed()作用
+### https://www.jianshu.com/p/38d0a44630f8
