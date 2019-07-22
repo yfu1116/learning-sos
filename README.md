@@ -18,3 +18,5 @@
 - ### [python 指导手册](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 
 - ### [R-set.seed()作用](https://www.jianshu.com/p/38d0a44630f8)
+
+- ### [Installing Python Packages from a Jupyter Notebook](https://huangweiran.club/2018/05/14/%E7%BF%BB%E8%AF%91%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8Jupyter-notebook%E4%B8%AD%E5%AE%89%E8%A3%85Python%E5%8C%85%EF%BC%9F/index.html)
