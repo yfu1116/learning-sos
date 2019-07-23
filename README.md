@@ -13,6 +13,8 @@
 
 - ### [Markdown中输入数学公式及LaTex常用数学符号整理](http://liyangbit.com/math/jupyter-latex/)
 
+- ### [Markdown数学符号&公式](https://blog.csdn.net/Katherine_hsr/article/details/79179622)
+
 - ### [Markdown 插入链接](https://www.jianshu.com/p/ab539e9a7955)
 
 - ### [python 指导手册](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
