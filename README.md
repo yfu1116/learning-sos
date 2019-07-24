@@ -1,6 +1,6 @@
 #   SoS, Jupyter notebook学习资料
 
-- ###[VMware虚拟机ubuntu显示屏幕太小解决办法](https://blog.csdn.net/dcrmg/article/details/74090307)
+- ### [VMware虚拟机ubuntu显示屏幕太小解决办法](https://blog.csdn.net/dcrmg/article/details/74090307)
 
 - ### [xshell远程连接ubuntu](https://zhuanlan.zhihu.com/p/28544384)
 
