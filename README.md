@@ -8,6 +8,8 @@
 
 - ### [Jupyter notebook快捷键](https://blog.csdn.net/lawme/article/details/51034543)
 
+- ### [27 个Jupyter Notebook的小提示与技巧](http://liuchengxu.org/pelican-blog/jupyter-notebook-tips.html)
+
 - ### [sos magics](https://vatlab.github.io/sos-docs/doc/user_guide/sos_magics.html)
 
 - ### [SoS-command-line](https://vatlab.github.io/sos-docs/doc/documentation/User_Interface.html)
