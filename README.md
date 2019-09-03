@@ -8,6 +8,8 @@
 
 - ### [配置jupyter notebook于本地浏览器可视化远程服务器](https://www.jianshu.com/p/bc132795433d)
 
+- ### [修改Anaconda中的Jupyter Notebook默认工作路径的三种方式](https://blog.csdn.net/u014552678/article/details/62046638)
+
 - ### [Jupyter notebook快捷键](https://blog.csdn.net/lawme/article/details/51034543)
 
 - ### [27 个Jupyter Notebook的小提示与技巧](http://liuchengxu.org/pelican-blog/jupyter-notebook-tips.html)
