@@ -1,5 +1,7 @@
 #   SoS, Jupyter notebook学习资料
 
+- ### [花生壳解决内网穿透](https://segmentfault.com/a/1190000022258140)
+
 - ### [VMware虚拟机ubuntu显示屏幕太小解决办法](https://blog.csdn.net/dcrmg/article/details/74090307)
 
 - ### [xshell远程连接ubuntu](https://zhuanlan.zhihu.com/p/28544384)
