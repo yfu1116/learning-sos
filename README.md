@@ -1,4 +1,4 @@
-#   SoS, Jupyter notebook学习资料
+#   SoS, Jupyter notebook
 
 - ### [花生壳解决内网穿透](https://segmentfault.com/a/1190000022258140)
 
